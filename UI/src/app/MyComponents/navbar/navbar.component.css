@@ -1,0 +1,10 @@
+* {
+  text-decoration-color: brown;
+}
+.nav-item {
+  margin: 0 40px;
+}
+
+.nav-buttons {
+  padding-left: 200px;
+}

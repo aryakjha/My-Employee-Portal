@@ -1,0 +1,14 @@
+#main-page {
+  margin-top: 30px;
+}
+
+.bg-image {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-image: url(../assets/new_image.jpg);
+  background-size: cover;
+  background-position: center;
+  filter: blur(5px);
+  z-index: -1;
+}
